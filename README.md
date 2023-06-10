@@ -8,7 +8,7 @@ Welcome to my profile! I'm Theta69, a programmer-as-a-hobby.<br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">&nbsp;
 </p>
-- Currently working on ![ZetaStealer](https://github.com/Theta69/ZetaStealer).
+- Currently working on <a href="https://github.com/Theta69/ZetaStealer">ZetaStealer</a>.
 
 <!--
 **Theta69/Theta69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
