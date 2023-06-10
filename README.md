@@ -1,5 +1,14 @@
 ## Theta69
-Welcome to my profile! I'm Theta69, a programmer-as-a-hobby. Currently working on ![ZetaStealer](https://github.com/Theta69/ZetaStealer).
+Welcome to my profile! I'm Theta69, a programmer-as-a-hobby.<br>
+- Programming languages known:
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">&nbsp;
+</p>
+- Currently working on ![ZetaStealer](https://github.com/Theta69/ZetaStealer).
 
 <!--
 **Theta69/Theta69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
