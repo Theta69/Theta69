@@ -8,7 +8,7 @@ Welcome to my profile! I'm Theta69, a programmer-as-a-hobby.<br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
-  <img src="">&nbsp;
+<!--   <img src="">&nbsp; -->
   <br>
   - Currently working on <a href="https://github.com/Theta69/ZetaStealer">ZetaStealer</a>.
   <br>
@@ -17,7 +17,7 @@ Welcome to my profile! I'm Theta69, a programmer-as-a-hobby.<br>
   <img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=flat&logo=nvidia&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Intel-Core_i9_11th-0071C5?style=flat&logo=intel&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Windows-11-0078D6?style=flat&logo=windows11&logoColor=white">&nbsp;
-  <img src="">&nbsp;
+<!--   <img src="">&nbsp; -->
 </p>
 
 <!--
