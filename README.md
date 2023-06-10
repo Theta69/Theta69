@@ -1,7 +1,7 @@
 ## Theta69
 Welcome to my profile! I'm Theta69, a programmer-as-a-hobby.<br>
 <p>
-  - Programming languages known:
+  - Programming languages known:<br>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">&nbsp;
