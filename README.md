@@ -1,4 +1,5 @@
-### Hi there 👋
+## Theta69
+Welcome to my profile! I'm Theta69, a programmer-as-a-hobby. Currently working on ![ZetaStealer](https://github.com/Theta69/ZetaStealer).
 
 <!--
 **Theta69/Theta69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
