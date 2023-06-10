@@ -1,5 +1,5 @@
 ## Theta69
-Welcome to my profile! I'm Theta69, a programmer-as-a-hobby.<br>
+Welcome to my profile! I'm Theta69, a programmer-as-a-hobby.<br><br><br>
 <p>
   - Programming languages known:
   <br><br>
