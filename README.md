@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.ibb.co/cr3KYVw/ZetaLabs.png"></p>
-<p>Creators of ZetaStealer.</p>
+<p align="center">Creators of ZetaStealer.</p>
 
 
 <!-- <p>
