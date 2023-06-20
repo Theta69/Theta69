@@ -1,5 +1,6 @@
 <p align="center"><img src="https://i.ibb.co/cr3KYVw/ZetaLabs.png"></p>
-<p align="center">Creators of ZetaStealer.</p>
+<p align="center">## Introduction</p>
+<p align="center">Welcome to our page. We're ZetaLabs, the creators of ZetaStealer.</p>
 
 
 <!-- <p>
