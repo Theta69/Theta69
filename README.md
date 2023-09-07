@@ -1,5 +1,4 @@
 <p align="center"><img src="https://i.ibb.co/cr3KYVw/ZetaLabs.png"></p>
-<h1 align="center">ZETALABS IS POSTPONED</h1>
 <h1 align="center">Introduction</h1>
 <p align="center">Welcome to our page. We're ZetaLabs, the creators of ZetaStealer.</p>
 
