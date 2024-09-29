@@ -1,7 +1,7 @@
 <p>Yo I'm dxrk</p>
 <p>@pirotehnice on discord.</p>
 <p>I make random shit that I keep private because I don't feel like sharing</p>
-<p>working on [pyroplug](https://pyroplug.vercel.app)</p>
+<p>working on ![pyroplug](https://pyroplug.vercel.app)</p>
 
 <!--
 **Theta69/Theta69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
